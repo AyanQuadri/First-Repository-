@@ -1,3 +1,4 @@
 hello world
 what doing 
- just checking if ubuntu working 
+just checking if ubuntu working 
+hello
